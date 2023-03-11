@@ -1,0 +1,6 @@
+2023-03-11 12:29:58.4283 ERROR error in service called [/api/v1/users/create] error is Missing type map configuration or unsupported mapping.
+
+Mapping types:
+SaveUserViewModel -> User
+Interfaces.ViewModels.UserVM.SaveUserViewModel -> Entities.Models.User
+2023-03-11 12:31:20.2567 ERROR error in service called [/api/v1/users/create] error is Object reference not set to an instance of an object.
